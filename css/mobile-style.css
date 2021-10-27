@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+
+/* Showcase */
+#showcase {
+    text-align: center;
+    padding: 30px;
+}
+
+div#showcase div.showcase-container h1{
+    font-size: 4.0em;
+}
+
+/* Sobre Nós */
+.nos p{
+    font-size: 20px;
+}
+
+.nos img.sobrenos-imagem {
+    height: 100px;
+}
+
+section#sobrenos div#sobrenos-container {
+    width: 95%;
+}
+
+section#sobrenos div#sobrenos-container div.nos {
+    flex-direction: column;
+}
